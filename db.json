@@ -1,107 +1,31 @@
 {
- 
-    "categories": [
-      {
-        "id": 159822,
-        "name": "Tecnología",
-        "fullPath": "Tecnología",
-        "idsPath": "159746>159822"
-      },
-      {
-        "id": 159952,
-        "name": "Electrohogar",
-        "fullPath": "Electrohogar",
-        "idsPath": "159746>159952"
-      },
-      {
-        "id": 160264,
-        "name": "Dormitorio",
-        "fullPath": "Dormitorio",
-        "idsPath": "159746>160264"
-      },
-      {
-        "id": 160364,
-        "name": "Deporte",
-        "fullPath": "Deporte",
-        "idsPath": "159746>160364"
-      },
-      {
-        "id": 267682,
-        "name": "Muebles",
-        "fullPath": "Muebles",
-        "idsPath": "159746>267682"
-      },
-      {
-        "id": 278702,
-        "name": "Calzado",
-        "fullPath": "Calzado",
-        "idsPath": "159746>278702"
-      },
-      {
-        "id": 627987,
-        "name": "Hogar",
-        "fullPath": "Hogar",
-        "idsPath": "159746>627987"
-      },
-      {
-        "id": 905967,
-        "name": "Mujer",
-        "fullPath": "Mujer",
-        "idsPath": "159746>905967"
-      },
-      {
-        "id": 906052,
-        "name": "Hombre",
-        "fullPath": "Hombre",
-        "idsPath": "159746>906052"
-      },
-      {
-        "id": 906130,
-        "name": "Carteras y Accesorios",
-        "fullPath": "Carteras y Accesorios",
-        "idsPath": "159746>906130"
-      },
-      {
-        "id": 906169,
-        "name": "Belleza",
-        "fullPath": "Belleza",
-        "idsPath": "159746>906169"
-      },
-      {
-        "id": 1172780,
-        "name": "Salud y bienestar",
-        "fullPath": "Salud y bienestar",
-        "idsPath": "159746>1172780"
-      },
-      {
-        "id": 1189101,
-        "name": "Supermercado",
-        "fullPath": "Supermercado",
-        "idsPath": "159746>1189101"
-      },
-      {
-        "id": 1224315,
-        "name": "Mejoramiento del Hogar",
-        "fullPath": "Mejoramiento del Hogar",
-        "idsPath": "159746>1224315"
-      },
-      {
-        "id": 1282387,
-        "name": "Moda Infantil",
-        "fullPath": "Moda Infantil",
-        "idsPath": "159746>1282387"
-      },
-      {
-        "id": 1282539,
-        "name": "Juguetería y Bebés",
-        "fullPath": "Juguetería y Bebés",
-        "idsPath": "159746>1282539"
-      },
-      {
-        "id": 1447865,
-        "name": "Otras Categorías",
-        "fullPath": "Otras Categorías",
-        "idsPath": "159746>1447865"
-      }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
